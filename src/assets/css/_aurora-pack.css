@@ -49,8 +49,9 @@ html {
 }
 
 .ae-container-fluid {
-  margin-right: auto;
-  margin-left: auto;
+  color: #000000;
+  padding-right: 20.0;
+  padding-left: 20.0;
 }
 @media (min-width: 40em) {
   .ae-container-fluid {
@@ -70,6 +71,8 @@ html {
 }
 @media (max-width: 63.99em) {
   .ae-container-fluid {
+    padding-left: .25rem;
+    padding-right: .25rem;
   }
 }
 
