@@ -10,6 +10,7 @@ import { EventComponent } from './pages/event/event.component';
 import { EventItemComponent } from './pages/event-item/event-item.component';
 import { GalleryComponent } from './pages/gallery/gallery.component';
 import { TeamComponent } from './pages/team/team.component';
+import { AboutComponent } from './pages/about/about.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { TeamComponent } from './pages/team/team.component';
     EventComponent,
     EventItemComponent,
     GalleryComponent,
-    TeamComponent
+    TeamComponent,
+    AboutComponent
   ],
   imports: [
     BrowserModule,
