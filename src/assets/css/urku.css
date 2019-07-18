@@ -48,7 +48,7 @@ body {
 .rk-header {
   background-color: #e62b1e;
   position: relative;
-  height: 5em;
+  height: 4em;
   z-index: 5;
 }
 .top-fixed .rk-header {
@@ -72,7 +72,7 @@ body {
   -ms-flex-pack: justify;
           justify-content: space-between;
   padding-bottom: 0rem;
-  padding-top: 2rem;
+  padding-top: 1.5rem;
 }
 @media (min-width: 64em) {
   .rk-topbar {
