@@ -1,10 +1,3 @@
-/* * * * * * * * * * * * * * * * * * * * *\ 
- aurora-pack v1.0.0 
- Aurora Kit in one simple pack 
- (c) 2016 Lionel T <elrumordelaluz@hotmail.com> (http://elrumordelaluz.com) 
- https://github.com/aurora-kit/aurora-pack.git 
- Licensed under  MIT 
-\* * * * * * * * * * * * * * * * * * * * */
 .ae-container:before,
 .ae-container-fluid:before,
 .ae-container:after,
@@ -77,8 +70,6 @@ html {
 }
 @media (max-width: 63.99em) {
   .ae-container-fluid {
-    padding-left: .25rem;
-    padding-right: .25rem;
   }
 }
 
