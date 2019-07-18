@@ -9,6 +9,7 @@ import { HomeComponent } from './pages/home/home.component';
 import { EventComponent } from './pages/event/event.component';
 import { EventItemComponent } from './pages/event-item/event-item.component';
 import { GalleryComponent } from './pages/gallery/gallery.component';
+import { TeamComponent } from './pages/team/team.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { GalleryComponent } from './pages/gallery/gallery.component';
     HomeComponent,
     EventComponent,
     EventItemComponent,
-    GalleryComponent
+    GalleryComponent,
+    TeamComponent
   ],
   imports: [
     BrowserModule,
