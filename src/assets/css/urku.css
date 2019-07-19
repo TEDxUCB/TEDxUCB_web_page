@@ -46,9 +46,9 @@ body {
 }
 
 .rk-header {
-  background-color: #e62b1e;
+  background-color: #ffffff;
   position: relative;
-  height: 4em;
+  height: 5em;
   z-index: 5;
 }
 .top-fixed .rk-header {
@@ -1976,7 +1976,7 @@ body {
   padding-right: 0;
 }
 .rk-menu__item.active {
-  color: #ffffff;
+  color: #e62b1e;
 }
 .rk-menu__link {
   padding-bottom: 4.2rem;
